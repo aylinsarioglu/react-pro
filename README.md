@@ -1,7 +1,7 @@
 # Kullanılan Teknolojiler
 
 
-React ile yapılmıştır.
+- React ile yapılmıştır.
 
 
 
