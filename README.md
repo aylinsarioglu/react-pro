@@ -1,3 +1,9 @@
+# Kullanılan Teknolojiler
+
+
+React ile yapılmıştır.
+
+
 
 # Ekran Kaydı
 
